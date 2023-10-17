@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luca</h1>
 <h3 align="center">A Full-Stack Development Student based in Messina, Sicily🍋</h3>
 
-- 🔭 I’m currently working on [CodeChronicle](https://github.com/lucacucinotta/CodeChronicle.git)
-
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React**
 
 - 📫 Mail me : **lucacucinotta02@gmail.com**
 
