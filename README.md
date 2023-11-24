@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luca</h1>
 <h3 align="center">A Full-Stack Development Student based in Messina, Sicily🍋</h3>
 
-- 🌱 I’m currently learning **React**
+- 🔭 I’m currently working on [New-York-Times-Clone](https://github.com/lucacucinotta/New-York-Times-Clone.git)
 
 - 📫 Mail me : **lucacucinotta02@gmail.com**
 
