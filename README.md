@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luca</h1>
 <h3 align="center">A Full-Stack Development Student based in Messina, Sicily🍋</h3>
 
-- 🔭 I’m currently working on [New-York-Times-Clone](https://github.com/lucacucinotta/New-York-Times-Clone.git)
+- 🌱 I’m currently learning **Node.js**
 
 - 📫 Mail me : **lucacucinotta02@gmail.com**
 
@@ -29,6 +29,11 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=React_Query&logoColor=white"/>
 </p>
 
 <p align="center">
