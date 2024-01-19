@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luca</h1>
 <h3 align="center">A Full-Stack Development Student based in Messina, Sicily🍋</h3>
 
-- 🌱 I’m currently learning **Node.js**
+- 🔭 I’m currently working on [PlantyOfFoodAPI](https://github.com/lucacucinotta/PlantyOfFoodAPI_node.git)
 
 - 📫 Mail me : **lucacucinotta02@gmail.com**
 
