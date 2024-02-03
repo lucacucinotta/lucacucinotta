@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luca</h1>
 <h3 align="center">A Full-Stack Development Student based in Messina, Sicily🍋</h3>
 
-- 📫 Mail me : **lucacucinotta02@gmail.com**
-
-- 📄 Know about my experiences [https://lucacucinotta.github.io/assets/CV.pdf](https://lucacucinotta.github.io/assets/CV.pdf)
+- 📫 Mail me : **lucacucinotta002@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
