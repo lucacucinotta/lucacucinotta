@@ -5,7 +5,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="www.linkedin.com/in/lucacucinotta">
+  <a href="https://www.linkedin.com/in/lucacucinotta/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/luca.cucinotta/">
